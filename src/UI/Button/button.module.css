@@ -1,0 +1,18 @@
+.formButton {
+    background: #28a745;
+    border: 1px solid #28a745;
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+    color: #ffffff;
+}
+.formButton:hover {
+    cursor: pointer;
+}
+.buttonWrapper {
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px 0 0 10px;
+}
+.formButton:focus {
+    outline: none;
+}

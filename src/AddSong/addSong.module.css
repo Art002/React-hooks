@@ -1,0 +1,18 @@
+.addForm {
+    width: 500px;
+    background: #ffffff;
+    margin: 0 auto;
+    margin-top: 60px;
+    padding: 50px 20px 50px 20px;
+    border-radius: 10px;
+}
+.fieldset {
+    border: 0px;
+}
+.legend {
+    margin: 0 auto;
+    font-size: 24px;
+    font-weight: 500;
+    color: rgb(85, 26, 139);
+    margin-bottom: 30px;
+}

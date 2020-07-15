@@ -1,0 +1,10 @@
+.header {
+    text-transform: capitalize;
+    margin-top: 70px;
+    text-align: center;
+}
+.artistsWrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}

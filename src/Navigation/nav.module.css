@@ -1,0 +1,26 @@
+.navItem {
+    list-style: none;
+    display: inline;
+    padding: 10px;
+    font-size: 16px;
+}
+.navItem a {
+    color: rgb(85, 26, 139);  
+}
+.navItem a:active {
+    color: rgb(190, 169, 210);
+}
+.navItem a:hover {
+    color: rgb(146, 26, 255);
+}
+.navContainer {
+    width: 100%;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    position: fixed;
+    top: 0;
+    background: #ffffff;
+}
+.navList {
+    width: 992px;
+    margin: 0 auto;
+}

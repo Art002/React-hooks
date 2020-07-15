@@ -1,0 +1,24 @@
+.trackPlate {
+    width: 420px;
+    box-shadow: 0 0 7px rgba(0,0,0,0.3);
+    padding: 10px 15px;
+    box-sizing: border-box;
+    margin: 20px;
+    text-transform: capitalize;
+    display: flex;
+    flex-direction: column;
+    background: #ffffff;
+    font-size: 15px;
+    font-weight: 500;
+    transition: 0.5s;
+}
+.artist, .song, .album, .year {
+    margin-bottom: 3px;
+    margin-top: 3px;
+    color: rgb(85, 26, 139);
+    letter-spacing: 0.3px;
+}
+.trackPlate:hover {
+    transition: 0.5s;
+    box-shadow: 0 0 7px rgb(85, 26, 139);
+}

@@ -1,0 +1,16 @@
+.genresList {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; 
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 60px;
+    background: #ffffff;
+    box-shadow: 0 0 7px rgba(0,0,0,0.3);
+    border-radius: 20px;
+    padding: 50px 50px 120px 50px;
+    font-weight: 500;
+}
+.genresList a {
+    color: black;
+}
